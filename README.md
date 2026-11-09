@@ -2,72 +2,48 @@
 
 **Technical Writer | Developer Documentation | Full-Stack Developer**
 
-I build software projects and write clear technical documentation that helps people understand how systems work, how their components fit together, and how to use them.
+I build software projects and write practical technical documentation that helps developers understand systems, integrate APIs, and work confidently with software.
 
-My interests include backend development, API integration, AI-assisted software, automation, and the practical engineering behind developer tools.
+My work combines technical communication with hands-on development. I am particularly interested in Python, TypeScript, backend systems, API design, AI-enabled applications, and automation.
 
-- **Portfolio:** https://ezenwa-christian.netlify.app
-- **Technical writing:** https://ezenwachristianchimeremeze.medium.com/
-- **GitHub:** https://github.com/ezenwachristianchimeremeze
+## Professional focus
 
----
-
-## Focus areas
-
-### Technical writing and documentation
-- Developer guides and getting-started documentation
-- API documentation and integration guides
-- Software architecture and technical explanations
-- Setup, configuration, and troubleshooting guides
-- Documentation for AI-enabled applications and automation workflows
-
-### Software development
-- Python and JavaScript / TypeScript
-- Backend development with FastAPI, Node.js, and Express
-- REST API design and integration
-- React and React Native
-- Data and application services, including MongoDB and Firebase
-- Git, GitHub, Linux, and Termux
-
-I continue to deepen my skills in backend architecture, Pydantic, LLM function calling, computer vision, and robotics. I distinguish technologies I am actively learning from areas where I have hands-on project experience.
-
----
+- **Technical writing:** developer guides, API references, setup instructions, troubleshooting, and architecture explanations.
+- **Software development:** Python, JavaScript/TypeScript, React, React Native, backend services, and REST APIs.
+- **AI and automation:** AI-assisted workflows, provider integrations, and practical automation projects.
 
 ## Selected projects
 
-### [Geminio OS](https://github.com/ezenwachristianchimeremeze/geminio-os-platform)
-An AI-first development ecosystem in progress. The project explores how AI can support a software-development workflow, from requirements and project setup through code assistance, analysis, debugging, testing, and deployment.
+### [Geminio OS](https://github.com/ezenwachristianchimeremeze/geminio-os)
+An AI-first workspace and software-development ecosystem in active development. The repository includes an Expo/React Native application and backend services. See its implementation-status documentation for verified capabilities and current limitations.
 
-My focus includes product and architecture planning, technical specifications, developer documentation, and AI-assisted development workflows.
-
-### [Career Agent](https://github.com/ezenwachristianchimeremeze/Career-agency)
-A career-management application being developed for a mobile-first workflow. The project is separate from Geminio OS and explores tools for organising job-search activities and supporting application preparation.
+### [Geminio OS Platform — supporting documentation](https://github.com/ezenwachristianchimeremeze/geminio-os-platform)
+Companion engineering materials, architecture notes, selected backend prototypes, and project reports. These materials should be read with their stated scope and verification dates.
 
 ### [Technical Writer Portfolio](https://github.com/ezenwachristianchimeremeze/technical-writer-portfolio)
-The source repository for my portfolio website and a place to present my technical communication work and software projects.
+A portfolio website and selected technical documentation samples.
 
----
+### [Career Agent](https://github.com/ezenwachristianchimeremeze/Career-agency)
+A Flask-based career-workflow application prototype with job-search and application-preparation features.
 
 ## Technical writing
 
-I write about practical software and engineering topics, including APIs, AI systems, automation, developer workflows, software architecture, and edge AI.
+I publish practical articles about software development, APIs, AI systems, automation, and developer workflows.
 
-**Read my articles:** [Medium](https://ezenwachristianchimeremeze.medium.com/)
+- [Read my articles on Medium](https://ezenwachristianchimeremeze.medium.com/)
+- [Visit my portfolio](https://ezenwa-christian.netlify.app)
 
----
+## Technologies
 
-## Current learning
+Python · JavaScript · TypeScript · React · React Native · Node.js · FastAPI · REST APIs · PostgreSQL · SQLite · Git · GitHub
 
-- Advanced Python and backend architecture
-- FastAPI and Pydantic
-- LLM function calling and AI-agent workflows
-- Computer vision and OpenCV
-- ROS 2, embedded systems, and robotics fundamentals
+I distinguish demonstrated project experience from technologies I am currently learning or exploring.
 
----
+## Connect
 
-## Collaboration
-
-I am interested in contributing to projects involving developer documentation, backend systems, APIs, AI-enabled applications, automation, and open-source software.
+- [LinkedIn](https://www.linkedin.com/in/ezenwa-christian-chimeremeze-b77115440)
+- [Medium](https://ezenwachristianchimeremeze.medium.com/)
+- [Portfolio](https://ezenwa-christian.netlify.app)
+- [GitHub](https://github.com/ezenwachristianchimeremeze)
 
 **Build. Understand. Document. Improve.**
